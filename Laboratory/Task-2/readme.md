@@ -1,5 +1,3 @@
 ## AMAÇ
- - İndis dizisi oluşturmak.
- - İşaret dizisi oluşturmak.
- - Grafik çizdirmek.
- - Kompleks sayılarda dört işlem, kartezyen, polar gösterim.
+- Fark denklemi verilen doğrusal ve zamanda değişmez sistemlerde çıkış hesaplamak.
+- Dürtü cevabı verilen bir sistemin çıkışını hesaplamak.
