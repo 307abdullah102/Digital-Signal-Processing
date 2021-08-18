@@ -1,5 +1,11 @@
 ## AMAÇ
- - İndis dizisi oluşturmak.
- - İşaret dizisi oluşturmak.
- - Grafik çizdirmek.
- - Kompleks sayılarda dört işlem, kartezyen, polar gösterim.
+- Örnekleme frekansının değiştirilmesi
+- Seyrek örnekleme (down sample)
+- Seyrek örneklemenin zaman domaininde incelenmesi
+- Seyrek örneklemenin frekans domaininde incelenmesi
+- Örtüşme önleyici filtre
+- Sık örnekleme (up sample)
+- Sık örneklemenin zaman domaininde incelenmesi
+- Sık örneklemenin frekans domaininde incelenmesi
+- İnterpolasyon işlemi
+- Örnekleme oranının tamsayı olmaması durumu
