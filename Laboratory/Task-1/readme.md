@@ -1,4 +1,4 @@
-##AMAÇ
+## AMAÇ
  - İndis dizisi oluşturmak.
  - İşaret dizisi oluşturmak.
  - Grafik çizdirmek.
