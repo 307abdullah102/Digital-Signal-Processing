@@ -1,5 +1,11 @@
 ## AMAÇ
- - İndis dizisi oluşturmak.
- - İşaret dizisi oluşturmak.
- - Grafik çizdirmek.
- - Kompleks sayılarda dört işlem, kartezyen, polar gösterim.
+- İşaretlerin örneklenmesi
+- Örneklemenin zaman domaininde incelenmesi
+- Örneklemenin frekans domaininde incelenmesi
+- Örtüşme
+- Zaman domaininde örtüşmenin etkisi
+- Frekans domaininde örtüşmenin etkisi
+- Sürekli zamanlı işaretin yeniden elde edilmesi
+- Zaman domaininde
+- Frekans domaininde
+- Kuantalama
